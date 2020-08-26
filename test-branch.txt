@@ -1,2 +1,6 @@
 test branch
+<<<<<<< HEAD
 changed by master
+=======
+changed by branch
+>>>>>>> test-branch
